@@ -1,0 +1,6 @@
+{ "type": "page", "title": "Desk",
+  "content": { "type": "center",
+    "child": { "type": "linear", "direction": "vertical", "spacing": 14, "alignment": "center", "children": [
+      { "type": "text", "text": "WAITING", "style": { "fontSize": 16, "letterSpacing": 4, "color": "#6b7280" } },
+      { "type": "text", "text": "{{waiting}}", "style": { "fontSize": 88, "fontWeight": "bold", "color": "#111827" } },
+      { "type": "button", "label": "Admit one", "onTap": { "type": "tool", "tool": "desk.admit", "params": { "count": 1 } } } ] } } }

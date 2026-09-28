@@ -1,0 +1,8 @@
+step1  initialize -> serverInfo Course
+step2  tools/list -> desk.count
+step3  refused 0 and 99, admitted 1 -> waiting 2
+step4  ui://desk served from ui/desk.json (6 lines), not from the code
+step5  admitted 2, process ended, a new process still reads waiting 1
+step6  notification carried the uri and no value
+
+6 steps · each checked against its own claim

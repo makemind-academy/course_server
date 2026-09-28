@@ -1,0 +1,5 @@
+{"jsonrpc":"2.0","id":1,"result":{"protocolVersion":"2025-06-18","serverInfo":{"name":"Course","version":"1.0.0"},"capabilities":{"tools":{"listChanged":true}}}}
+{"jsonrpc":"2.0","method":"notifications/message","params":{"level":"info","data":{"message":"Client initialized successfully"}}}
+{"jsonrpc":"2.0","id":2,"result":{"content":[{"type":"text","text":"desk.admit: count must be 1 or more"}],"isStreaming":false,"isError":true}}
+{"jsonrpc":"2.0","id":3,"result":{"content":[{"type":"text","text":"only 3 waiting"}],"isStreaming":false,"isError":true}}
+{"jsonrpc":"2.0","id":4,"result":{"content":[{"type":"text","text":"{\"waiting\":2}"}],"isStreaming":false}}

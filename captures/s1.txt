@@ -1,0 +1,2 @@
+{"jsonrpc":"2.0","id":1,"result":{"protocolVersion":"2025-06-18","serverInfo":{"name":"Course","version":"1.0.0"},"capabilities":{}}}
+{"jsonrpc":"2.0","method":"notifications/message","params":{"level":"info","data":{"message":"Client initialized successfully"}}}

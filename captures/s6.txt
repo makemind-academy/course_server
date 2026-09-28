@@ -1,0 +1,5 @@
+{"jsonrpc":"2.0","id":1,"result":{"protocolVersion":"2025-06-18","serverInfo":{"name":"Course","version":"1.0.0"},"capabilities":{"tools":{"listChanged":true},"resources":{"subscribe":true,"listChanged":true}}}}
+{"jsonrpc":"2.0","method":"notifications/message","params":{"level":"info","data":{"message":"Client initialized successfully"}}}
+{"jsonrpc":"2.0","id":2,"result":{"success":true}}
+{"jsonrpc":"2.0","method":"notifications/resources/updated","params":{"uri":"desk://waiting"}}
+{"jsonrpc":"2.0","id":3,"result":{"content":[{"type":"text","text":"{\"waiting\":2}"}],"isStreaming":false}}

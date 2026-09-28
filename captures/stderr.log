@@ -1,0 +1,8 @@
+course step1: up, nothing registered
+course step2: up, 1 tool
+course step3: up, 1 tool that refuses
+course step4: up, screen served from ui/desk.json
+course step5: up, state in desk-state.json (waiting=3)
+course step5: up, state in desk-state.json (waiting=1)
+course step6: up, subscribable (waiting=3)
+notified desk://waiting
